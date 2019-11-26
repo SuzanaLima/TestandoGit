@@ -1,8 +1,8 @@
-Ol· mundo! Testes 
-	Comando b·sicos do Git
-	- git init: Inicia o versionamento da pasta ou repositÛrio.
-	- git add .: Permite adicionar todo novo conte˙do.
-	- git add "NomeItem.extens„o": Permite adicionar apernas o arquivo especificado. 
-	- git commit -m "Primeiro Commit": Realiza o commit das atualizaÁıes, entre aspas est· a identificaÁ„o do commit 
+Ol√° mundo! Testes 
+	Comando b√°sicos do Git
+	- git init: Inicia o versionamento da pasta ou reposit√≥rio.
+	- git add .: Permite adicionar todo novo conte√∫do.
+	- git add "NomeItem.extens√£o": Permite adicionar apernas o arquivo especificado. 
+	- git commit -m "Primeiro Commit": Realiza o commit das atualiza√ß√µes, entre aspas est√° a identifica√ß√£o do commit 
 	- git checkout -b "Nova Branch": Cria uma nova branch e faz o checkout pra ela
-	- clear: Limpa a tela.
+	- clear: Limpa o terminal(Git Bash).
