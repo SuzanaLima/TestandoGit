@@ -1,1 +1,8 @@
 Olá mundo! Testes 
+	Comando básicos do Git
+	- git init: Inicia o versionamento da pasta ou repositório.
+	- git add .: Permite adicionar todo novo conteúdo.
+	- git add "NomeItem.extensão": Permite adicionar apernas o arquivo especificado. 
+	- git commit -m "Primeiro Commit": Realiza o commit das atualizações, entre aspas está a identificação do commit 
+	- git checkout -b "Nova Branch": Cria uma nova branch e faz o checkout pra ela
+	- clear: Limpa a tela.
